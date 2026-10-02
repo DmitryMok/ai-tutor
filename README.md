@@ -21,3 +21,5 @@
 ## Лицензия
 
 [CC BY-NC-SA 4.0](LICENSE). Шаблон можно использовать и менять в своих проектах, включая рабочие. Продавать курс, шаблон или материалы на их основе нельзя.
+
+Плагин Obsidian Kanban в `lite-template/.obsidian/plugins/obsidian-kanban/` распространяется под [GPL-3.0](lite-template/.obsidian/plugins/obsidian-kanban/LICENSE), автор — [mgmeyers](https://github.com/community-archive/obsidian-kanban).
